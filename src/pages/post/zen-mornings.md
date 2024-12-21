@@ -9,7 +9,7 @@ dateFormatted: July 15th, 2023
 
 Hey there, fellow code wranglers and pixel pushers! 🌅 Ever felt that mid-morning slump, right when you're diving deep into that new React component or finalizing a sleek UI design? Yeah, me too. But here's the thing: I've discovered the magic potion – a killer morning routine. And no, it's not just about brewing the perfect pour-over (though that's a part of it).
 
-![Coffee Pour-over](/assets/images/posts/coffee.jpg)
+![Coffee Pour-over](/portofolio/assets/images/posts/coffee.jpg)
 
 **Why Morning Routines are the New Coffee**
 

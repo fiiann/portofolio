@@ -5,7 +5,7 @@ description: Embark on a nostalgic journey exploring the charm of vintage tech a
 dateFormatted: July 27th, 2023
 ---
 
-![Vintage Tech](/assets/images/posts/vintage-tech-01.jpg)
+![Vintage Tech](/portofolio/assets/images/posts/vintage-tech-01.jpg)
 
 **Introduction**
 
@@ -17,7 +17,7 @@ Hey, digital nomads and pixel perfectionists! 🌌 In our quest for the sleekest
 2. **Digital Detox**: Vintage tech offers a break from the constant pings and notifications of our modern devices.
 3. **Aesthetic Appeal**: Let's be honest, a vinyl record player just looks cooler than a Bluetooth speaker.
 
-![Vintage Tech](/assets/images/posts/vintage-tech-02.jpg)
+![Vintage Tech](/portofolio/assets/images/posts/vintage-tech-02.jpg)
 
 > "In our rush to the future, we often forget the beauty of the past." - Yours Truly
 
