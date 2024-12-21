@@ -1,0 +1,26 @@
+[
+	{
+		"name": "Sayo",
+		"description": "Practice speaking English with our advanced AI, simulating real-life conversations to enhance your speaking and listening skills",
+		"image": "/assets/images/projects/sayo.jpeg",
+		"url": "https://www.sayo.ai/"
+	},
+	{
+		"name": "Hits Hutama Karya",
+		"description": "Hits Hutama Karya is a comprehensive HRIS mobile app offering employee self-service, recruitment, onboarding, performance management, compensation, succession planning, and secure data management for HR leaders and employees on iOS and Android.",
+		"image": "/assets/images/projects/dns.surf.png",
+		"url": "https://play.google.com/store/apps/details?id=com.hutamakarya.hits"
+	},
+	{
+		"name": "iHome-Security",
+		"description": "iHome Security is an app designed for residential security clusters, enabling security personnel to manage daily attendance, conduct patrols, record visitor information, and report incidents efficiently.",
+		"image": "/assets/images/projects/ihome.jpeg",
+		"url": "https://klasterpintar.com/"
+	},
+	{
+		"name": "Absenku Profesional",
+		"description": "Absenku Profesional is a comprehensive attendance management app with features like face recognition, geotagging, shift scheduling, and detailed reporting, allowing you to monitor and manage employee attendance, leave requests, and work locations efficiently.",
+		"image": "/assets/images/projects/absenku.jpeg",
+		"url": "https://absenku.com"
+	}
+]
