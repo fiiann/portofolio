@@ -1,5 +1,11 @@
 [
 	{
+		"name": "Randu - Pos & Kasir",
+		"description": "Randu - POS & Cashier  is a sleek, efficient point of sale and cashier system designed to streamline sales, inventory, and payment processes, with features like receipt printing, sales tracking, and secure transactions., simulating real-life conversations to enhance your speaking and listening skills",
+		"image": "/portofolio/assets/images/projects/randu_pos.png",
+		"url": "https://www.randu.id/"
+	},
+	{
 		"name": "Sayo",
 		"description": "Practice speaking English with our advanced AI, simulating real-life conversations to enhance your speaking and listening skills",
 		"image": "/portofolio/assets/images/projects/sayo.jpeg",
@@ -8,7 +14,7 @@
 	{
 		"name": "Hits Hutama Karya",
 		"description": "Hits Hutama Karya is a comprehensive HRIS mobile app offering employee self-service, recruitment, onboarding, performance management, compensation, succession planning, and secure data management for HR leaders and employees on iOS and Android.",
-		"image": "/portofolio/assets/images/projects/dns.surf.png",
+		"image": "/portofolio/assets/images/projects/hits.png",
 		"url": "https://play.google.com/store/apps/details?id=com.hutamakarya.hits"
 	},
 	{

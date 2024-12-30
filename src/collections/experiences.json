@@ -1,23 +1,23 @@
 [
 	{
-		"dates": "June 2018 · Present",
-		"role": "Front-end Engineer",
-		"company": "Full Truck Alliance",
-		"description": "Responsible for customer service and CRM system front-end development.",
-		"logo": "/portofolio/assets/images/experiences/fta.ico"
+		"dates": "March 2023 · Present",
+		"role": "Mobile Engineer",
+		"company": "Applied Artificial Intellegent Laboratory",
+		"description": "Developed innovative, product-based applications integrating AI to enhance learning experiences. Key projects include Sayo, an interactive English learning platform; Penso, an AI-powered essay platform for students with teacher-assigned tasks and detailed AI-generated reports; and Makwan, a similar platform tailored for Chinese essays. Delivered scalable, user-friendly solutions while collaborating with cross-functional teams to ensure seamless AI integration.",
+		"logo": "/portofolio/assets/images/experiences/aail.jpeg"
 	},
 	{
-		"dates": "July 2015 · June 2018",
-		"role": "Front-end Engineer",
-		"company": "YOHO!",
-		"description": "Responsible for mobile front-end development of e-commerce platform.",
-		"logo": "/portofolio/assets/images/experiences/yoho.ico"
-	},
-	{
-		"dates": "September 2014 · July 2015 ",
-		"role": "Node.JS Developer",
-		"company": "WuLian",
-		"description": "Intern, involved in the development of Internet of Things cloud systems.",
+		"dates": "Sept 2022 · August 2022",
+		"role": "Flutter Developer",
+		"company": "ADS",
+		"description": "Designed and developed applications based on client requirements, delivering solutions for both mobile and web platforms using Flutter. Ensured responsive and user-friendly interfaces across devices, maintaining consistency and high performance. Collaborated with cross-functional teams to meet client expectations, focusing on scalability, quality, and timely delivery.",
 		"logo": "/portofolio/assets/images/experiences/wulian.ico"
+	},
+	{
+		"dates": "January 2020 · August 2022 ",
+		"role": "Mobile Developer",
+		"company": "PT Des Teknologi Informasi",
+		"description": "Developed mobile applications tailored to client requirements, ensuring seamless user experiences and robust functionality. Designed and implemented APIs, handled front-end mobile development, and seamlessly integrated backend services into the apps. Collaborated closely with teams to deliver high-quality, efficient, and scalable solutions, meeting project deadlines and exceeding client expectations.",
+		"logo": "/portofolio/assets/images/experiences/desnet.jpeg"
 	}
 ]
