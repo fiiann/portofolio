@@ -5,7 +5,7 @@ description: This is a post about how implementation Google Sign In authenticati
 dateFormatted: Juni 9th, 2024
 ---
 
-![Coffee and Code](/portofolio/assets/images/posts/flutter_supabase.jpg)
+![Coffee and Code](/assets/images/posts/flutter_supabase.jpg)
 
 # Introduction
 

@@ -5,7 +5,7 @@ description: Delve into the art of minimalist coding, where simplicity reigns su
 dateFormatted: July 27th, 2023
 ---
 
-![Writing Less, Achieve More](/portofolio/assets/images/posts/workspace.jpg)
+![Writing Less, Achieve More](/assets/images/posts/workspace.jpg)
 
 **Introduction**
 
@@ -17,7 +17,7 @@ Hey there, fellow code artisans and design enthusiasts! 🌿 In a world obsessed
 2. **Efficiency**: Often, the simplest solution is the most efficient one, both in terms of performance and development time.
 3. **Aesthetics**: Just as a minimalist design pleases the eye, minimalist code is a joy to the developer's soul.
 
-![Writing Less, Achieve More](/portofolio/assets/images/posts/flowchart.jpg)
+![Writing Less, Achieve More](/assets/images/posts/flowchart.jpg)
 
 > "Simplicity is the ultimate sophistication." - Leonardo da Vinci (Yeah, he wasn't talking about code, but it still applies, right?)
 

@@ -5,7 +5,7 @@ description: This is a post about how creating and developing a blog for yoursel
 dateFormatted: July 7th, 2023
 ---
 
-![Coffee and Code](/portofolio/assets/images/posts/perfect-coffee.jpg)
+![Coffee and Code](/assets/images/posts/perfect-coffee.jpg)
 
 **Introduction**
 
@@ -17,7 +17,7 @@ Greetings, fellow keyboard warriors and design dreamers! ☕️ Ever wondered wh
 2. **Ritualistic Zen**: The process of brewing, the aroma, the first sip—it's a ritual that centers the mind.
 3. **Ambient Vibes**: The soft hum of conversations, the clinking of cups—it's the perfect white noise for concentration.
 
-![Pour Over](/portofolio/assets/images/posts/pour-over.jpg)
+![Pour Over](/assets/images/posts/pour-over.jpg)
 
 > "Coffee is the common man’s gold, and like gold, it brings to every person the feeling of luxury and nobility." - Sheik-Abd-al-Kadir
 
