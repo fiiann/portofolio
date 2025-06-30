@@ -5,7 +5,7 @@ description: This is a post about how implementation Google Sign In authenticati
 dateFormatted: Juni 9th, 2024
 ---
 
-![Coffee and Code](/assets/images/posts/flutter_supabase.jpg)
+![Flutter and Supabase](/portofolio/assets/images/posts/flutter_supabase.jpg)
 
 # Implementing Google Sign-In Authentication in Flutter with Supabase
 
