@@ -4,20 +4,20 @@
 		"role": "Mobile Engineer",
 		"company": "Applied Artificial Intellegent Laboratory",
 		"description": "Developed innovative, product-based applications integrating AI to enhance learning experiences. Key projects include Sayo, an interactive English learning platform; Penso, an AI-powered essay platform for students with teacher-assigned tasks and detailed AI-generated reports; and Makwan, a similar platform tailored for Chinese essays. Delivered scalable, user-friendly solutions while collaborating with cross-functional teams to ensure seamless AI integration.",
-		"logo": "/portofolio/assets/images/experiences/aail.jpeg"
+		"logo": "/assets/images/experiences/aail.jpeg"
 	},
 	{
 		"dates": "Sept 2022 · August 2022",
 		"role": "Flutter Developer",
 		"company": "ADS",
 		"description": "Designed and developed applications based on client requirements, delivering solutions for both mobile and web platforms using Flutter. Ensured responsive and user-friendly interfaces across devices, maintaining consistency and high performance. Collaborated with cross-functional teams to meet client expectations, focusing on scalability, quality, and timely delivery.",
-		"logo": "/portofolio/assets/images/experiences/wulian.ico"
+		"logo": "/assets/images/experiences/wulian.ico"
 	},
 	{
 		"dates": "January 2020 · August 2022",
 		"role": "Mobile Developer",
 		"company": "PT Des Teknologi Informasi",
 		"description": "Developed mobile applications tailored to client requirements, ensuring seamless user experiences and robust functionality. Designed and implemented APIs, handled front-end mobile development, and seamlessly integrated backend services into the apps. Collaborated closely with teams to deliver high-quality, efficient, and scalable solutions, meeting project deadlines and exceeding client expectations.",
-		"logo": "/portofolio/assets/images/experiences/desnet.jpeg"
+		"logo": "/assets/images/experiences/desnet.jpeg"
 	}
 ]

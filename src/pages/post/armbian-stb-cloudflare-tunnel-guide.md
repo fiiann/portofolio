@@ -5,7 +5,7 @@ description: Step-by-step guide to set up Armbian STB with Cloudflare Tunnel for
 dateFormatted: June 23th, 2025
 ---
 
-![Armbian STB Cloudflare Tunnel Guide](/portofolio/assets/images/posts/armbian-stb-cloudflare-tunnel-guide.png)
+![Armbian STB Cloudflare Tunnel Guide](/assets/images/posts/armbian-stb-cloudflare-tunnel-guide.png)
 # Setting Up Armbian STB with Cloudflare Tunnel: Transform Your Old TV Box into a Home Server
 
 Are you looking to repurpose your old Android TV box into a powerful home server?  
